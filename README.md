@@ -60,15 +60,7 @@ nu_incl = 0.30
 E_incl = 1e-6 * E_matrix
 
 
-## Example Result
 
-Stress distribution around circular inclusion and hole for different radii.
-
-
-
-
-
-```markdown
 ## Example Result
 
 Stress distribution around circular inclusion and hole for different radii.
