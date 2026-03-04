@@ -62,9 +62,15 @@ E_incl = 1e-6 * E_matrix
 
 ## Example Result
 
-Stress distribution around circular inclusion for different radii.
+Stress distribution around circular inclusion and hole for different radii.
 
-![Stress Gallery](results/stress_gallery.png)
+
+
+
+```markdown
+![Elastic Inclusion](elastic_inclusion.png)
+
+![Hole](hole.png)
 
 ---
 
