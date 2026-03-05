@@ -65,6 +65,8 @@ E_incl = 1e-6 * E_matrix
 
 Stress distribution around circular inclusion and hole for different radii.
 
+## Results
+
 ### Elastic Inclusion
 
 ![Elastic Inclusion](Elastic Inclusion.png)
