@@ -69,7 +69,7 @@ Stress distribution around circular inclusion and hole for different radii.
 
 ### Elastic Inclusion
 
-![Elastic Inclusion](Elastic Inclusion.png)
+![Elastic Inclusion](ElasticInclusion.png)
 
 ### Circular Hole
 
